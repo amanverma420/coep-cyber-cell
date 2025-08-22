@@ -7,7 +7,7 @@ const Team = () => {
       name: "Dr.Sunil B. Mane",
       role: "Club Guide & Faculty Advisor",
       image: "src/images/mane_sir.jpg",
-      bio: "Associate Professor, Computer Engineering Department. Expert in cybersecurity, cryptography, and network security. Guiding COEP CyberCell since its inception.",
+      bio: "T&P Coordinator for COEP TECH UNIVERSITY , Associate Professor, Computer Engineering Department. Expert in cybersecurity, cryptography, and network security. Guiding COEP CyberCell since its inception.",
       socials: {
         github: "#",
         linkedin: "https://www.linkedin.com/in/dr-sunil-b-mane-267277b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3By5bWdZVfQNq%2B2jXposOeLw%3D%3D",
@@ -38,14 +38,14 @@ const Team = () => {
       }
     },
     {
-      name: "Rajesh Kumar",
+      name: "Om Shingare",
       role: "Technical Lead",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
-      bio: "Final year student leading CTF team and organizing technical workshops.",
+      image: "src/images/shingare.jpg",
+      bio: "UPSC Hacker",
       socials: {
-        github: "#",
-        linkedin: "#",
-        email: "rajesh@coep.cybercell"
+        github: "https://github.com/ShingareOm",
+        linkedin: "https://www.linkedin.com/in/shingareom/",
+        email: "shingareop24.comp@coeptech.ac.in"
       }
     },
     {
